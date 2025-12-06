@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there, I'm Paul.
+
+Currently work in a machine shop.
+I'm also building my skills in Java, Typescript, and Spring.
 
 <!--
 **badOperator/badOperator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
